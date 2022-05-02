@@ -1,0 +1,11 @@
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\bin\Debug\Calculator with Exceptions.exe.config
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\bin\Debug\Calculator with Exceptions.exe
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\bin\Debug\Calculator with Exceptions.pdb
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.csproj.AssemblyReference.cache
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator_with_Exceptions.Form1.resources
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator_with_Exceptions.Properties.Resources.resources
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.csproj.GenerateResource.cache
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.exe
+C:\Users\Jones\Documents\Visual Studio Projects\Calculator with Exceptions\Calculator with Exceptions\obj\Debug\Calculator with Exceptions.pdb
